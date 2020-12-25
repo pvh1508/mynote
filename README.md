@@ -4,29 +4,31 @@ Xây dựng ứng dụng Note
 
 * Nội dung bài thu hoạch: gồm các tính năng login, signup có sử dụng firebase, và tích hợp google maps *
 
-*** Giao diện Login ***
+***Giao diện Login***
 ![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/login1.PNG)
 
-*** Khi nhập sai thông tin login ***
+***Khi nhập sai thông tin login***
 ![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/errLogin.PNG)
 
-*** Giao diện Signup ***
+***Giao diện Signup***
 ![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/signup.PNG)
 
-*** Thiếu Name khi đăng ký tài khoản ***
+***Thiếu Email khi đăng ký tài khoản***
+![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/email.PNG)
+
+***Thiếu Name khi đăng ký tài khoản***
 ![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/name.PNG)
 
-*** Thiếu Phone khi đăng ký tài khoản ***
+***Thiếu Phone khi đăng ký tài khoản***
 ![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/phone.PNG)
 
-*** Thiếu Email khi đăng ký tài khoản ***
-![alt]()
+***Thiếu Password khi đăng ký tài khoản***
+![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/pass.PNG)
 
-*** Thiếu Password khi đăng ký tài khoản ***
-![alt]()
+***Khi nhập sai 1 trong các trường thông tin hoặc trùng email***
+![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/errSignup.PNG)
 
-*** Login và Signup thành công ***
+***Login hoặc Signup thành công vào màn hình Home***
 ![alt](https://raw.githubusercontent.com/pvh1508/mynote/master/images/homePage.PNG)
-![alt]()
 
 
