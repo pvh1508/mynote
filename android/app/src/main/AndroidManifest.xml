@@ -3,6 +3,10 @@
    <application
         android:label="mynote"
         android:icon="@mipmap/ic_launcher">
+
+        <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyA80NU_PG1DbPdhXCeh-N0hAbnMVri7brg"/>
+
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301025967539",
+    "project_id": "taxiapp-6c28d",
+    "storage_bucket": "taxiapp-6c28d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301025967539:android:89bf3e5a8dc44038f41fc6",
+        "android_client_info": {
+          "package_name": "com.example.mynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301025967539-8ak46lrmcnqtvtreq3ruusu3akbnhmj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmDpeTHEAiZ181j_6hc8-dlZywMapg_ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301025967539-8ak46lrmcnqtvtreq3ruusu3akbnhmj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
